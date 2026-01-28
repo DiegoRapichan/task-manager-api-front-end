@@ -2,6 +2,7 @@
 
 Interface web para gerenciamento de tarefas, construída com React e Tailwind CSS.
 
+🔗 [Veja a aplicação rodando no Vercel] https://task-manager-api-front-end.vercel.app/
 ## 🚀 Tecnologias
 
 - React 18
