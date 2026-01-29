@@ -82,8 +82,7 @@ Os arquivos otimizados serão gerados na pasta `dist/`
    - `VITE_API_URL`: URL da sua API em produção
 4. Deploy automático!
 
-**Deploy em produção:** [LINK_AQUI_DEPOIS_DO_DEPLOY]
-
+**Deploy em produção:** http://task-manager-api-front-end.vercel.app
 ## 🗂️ Estrutura do Projeto
 
 ```
@@ -104,7 +103,7 @@ src/
 ## 🔗 Links Relacionados
 
 - **API Backend:** https://github.com/DiegoRapichan/task-manager-api
-- **API em Produção:** https://task-manager-api-xxxx.onrender.com
+
 
 ## 👨‍💻 Autor
 
